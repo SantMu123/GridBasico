@@ -1,12 +1,10 @@
 :root{
-    --color-primary: #e58f00;
-    --color-secundary: #17171e;
-    --color-ternario: #323239;
-    --color-font: #fff;
-    --color-baner: rgb(50,50,57,0.97);
-    --heigh-logo: 100px;
-    --width-logo: 85px;
+    --color-primary: #ececec;
+    --color-secundary: #fff;
+    --color-shadow: 3px 3px 5px rgba(0,0,0,0.122);
+    --color-font: #00000
 }
+
 
 /* Fuente Click Aqui : https://fonts.google.com/specimen/Roboto+Slab?preview.text=Contact%20Us%20For&query=%5BAachen */
 /* Iconos Click Aqui: https://boxicons.com/ */
